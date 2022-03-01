@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most exact relation of a great victory, obtained by the poor Protestants in Ireland, under the command of the Lords Inchequeen, and Kinealmekie, and Sir Charles Vavasour, against the rebells. Also severall depositions taken before the maior of Kinsale, concerning ships, men, and ammunition, sent to the rebels from France and Spain. Sent from the maior of Kinsale, to a brother of his a merchant in London. Presented to the high court of Parliament, and commanded to be forthwith printed.</title>
+            <author>Whetcombe, Tristram.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96310</idno>
+            <idno type="STC">Wing W1637</idno>
+            <idno type="STC">Thomason E119_22</idno>
+            <idno type="STC">ESTC R22696</idno>
+            <idno type="EEBO-CITATION">99871816</idno>
+            <idno type="PROQUEST">99871816</idno>
+            <idno type="VID">124233</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124233)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most exact relation of a great victory, obtained by the poor Protestants in Ireland, under the command of the Lords Inchequeen, and Kinealmekie, and Sir Charles Vavasour, against the rebells. Also severall depositions taken before the maior of Kinsale, concerning ships, men, and ammunition, sent to the rebels from France and Spain. Sent from the maior of Kinsale, to a brother of his a merchant in London. Presented to the high court of Parliament, and commanded to be forthwith printed.</title>
+                  <author>Whetcombe, Tristram.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Octob. 3. London, Printed for Joseph Hunscott,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[Octob. 3.] 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Tristram Whetcombe. cf. BM.</note>
+                  <note>Signed: Trestram Whetcombe.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124233:1"/>
+            <pb facs="tcp:124233:1" rendition="simple:additions"/>
+            <p>A moſt exact RELATION Of a great VICTORY, Obtained by the poor Proteſtants IN IRELAND, Under the Command of the Lords <hi>Inche<g ref="char:EOLhyphen"/>queen,</hi> and <hi>Kinealmekie,</hi> and Sir <hi>Charles Vavaſour,</hi> againſt the Rebells.</p>
+            <p>Alſo ſeverall DEPOSITIONS Taken before the Maior of
+<hi>Kinſale,</hi> con<g ref="char:EOLhyphen"/>cerning Ships, Men, and Ammunition, ſent to the Rebels from <hi>France</hi> and <hi>Spain.</hi> Sent from the Maior of
+<hi>Kinſale,</hi> to a brother of his a <hi>Merchant</hi> in
+<hi>London.</hi>
+            </p>
+            <p>Preſented to the high Court of Parliament, and command<g ref="char:EOLhyphen"/>ed to be forthwith Printed.</p>
+            <p>
+               <hi>Octob.</hi> 3. <hi>London,</hi> Printed for <hi>Joſeph Hunſcott.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div n="battle" type="account">
+            <pb facs="tcp:124233:2"/>
+            <pb n="3" facs="tcp:124233:2"/>
+            <head>Kinſale the <hi>16/29</hi> of Septemb.
+<hi>1642.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Brother</hi> BENJAMIN WHE<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>E,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y laſt w<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and 26 paſt, which we<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry ſad, and ther<g ref="char:EOLhyphen"/>fore make no repeatail, only a touch of the neceſſity of the Fort of
+<hi>Doncannon,</hi> if it be not ſpeedily releived, The Rebels are in great numbers continu<g ref="char:EOLhyphen"/>ally round about it, &amp; queſtionles do thirſt much after it, <hi>Waxford</hi> have ſet forth 5 or 6 men of War, one of them carrieth
+18 Pieces of Ordnance, and it is reported they have lately taken 5 or 6 Engliſh Barques, ſo that all thoſe parts, <hi>Duncannon</hi> excepted, is as ſecure unto them, as the River and County of <hi>Limbrick;</hi> It were good ſervice for ſome of our Ships to deſtroy the Herring fiſhing of
+<hi>Waxford</hi> and <hi>Rilbeggs.</hi> I will now with much joy and thankfullneſſe of heart relate, to Gods glory, the great and wonderful work he hath late<g ref="char:EOLhyphen"/>ly done among us. The laſt day of <hi>Auguſt</hi> came the
+<pb n="4" facs="tcp:124233:3"/>Lord <hi>Inchequeens</hi> command to our Governour, requiring him to ſend away all the Force he could poſſibly make, foot and horſe, and that he ſhould riſe and march away preſently; the like was done in <hi>Youghall</hi> and <hi>Bandonbirdge,</hi> the firſt preſent they marched from hence, the ſecond they all met at their Randevouz neer about <hi>Don<g ref="char:EOLhyphen"/>nerayle</hi> and the third day for ever to be remember<g ref="char:EOLhyphen"/>ed, very timely they marched to <hi>Liſcarrell</hi> Caſtle, which <hi>Muſcry</hi> the day before had taken, and was then there with h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rces encamped about 8000 fighting men
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſeven hundred horſe, the beſt of the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Province, our forces not paſſing ſeventeen hundred horſe and foot: the Enemy were full fed, ours had ſcarce bread in their Knapſacks; theirs healthy ſtrong and luſty, ours for the moſt part weak and ſick, not able to endure the weight of a Muſquet, and for certain, many upon the march had periſhed in the ditches, had not ſome of our horſemen taken them up be<g ref="char:EOLhyphen"/>hind them and carried them to the place where they muſt make a ſtand; The Enemy had the Caſtle of <hi>Liſcarrell</hi> to friend, three pieces of Ord<g ref="char:EOLhyphen"/>nance, whereof one of them weighed neer 8000. weight, mounted in a convenient Battery, half Moons and Breaſt-works drawn with much ingenuity; on the other ſide a very great Bogg to ſecure them, <hi>in ſine,</hi> they had ſo far what they de<g ref="char:EOLhyphen"/>ſired and to naturall reaſon what nature could af<g ref="char:EOLhyphen"/>ford, ours for the moſt part a naked People. The Onſet was given by a few horſe of this Town and <hi>Bandon,</hi> and a little too timely, they had not
+<pb n="5" facs="tcp:124233:3"/>any of them ſo much as a head-piece, onely my Lord of <hi>Kinealmakie</hi> that was cloathed with Ar<g ref="char:EOLhyphen"/>mour of proof, were enforced to retreat, in which my Lord onely was ſhot, and not a man of the reſt touched; It was Gods great mercy that this ſo timely Onſet had not wrought untimely ef<g ref="char:EOLhyphen"/>fects, by encouraging the Enemy and diſheart<g ref="char:EOLhyphen"/>ning of us: But our mayne Body coming up, and ſo well ordered, the horſe led by my Lord of <hi>Inchequeen,</hi> and the foot by Sir <hi>Charls Vavaſour,</hi> who went in the head of them, and with good language and reaſons did ſo encourage them, as every man cryed Victory before they had given fire; Captain <hi>Chidley</hi> behaved himſelt with ſingular valour and diſcretion: Sergeant Major <hi>Story</hi> is much honoured for his valiant Actions. The Lord <hi>Inchequeen</hi> was once far engaged and in ſome danger, but relieved by Captain <hi>Gibſon,</hi> and at that time ſlew one of their great Champi<g ref="char:EOLhyphen"/>ons called <hi>Oliver Steevens</hi> with his owne hand, The Onſet being given by our Horſe, and the Bat<g ref="char:EOLhyphen"/>tell began by the Muskettiers, being in number about 400, continued for a time ſomthing doubt<g ref="char:EOLhyphen"/>full, the Iriſh making hideous noyſes, and ſtood to it very valiantly; their Ordnance at firſt ſtroke a terrour, but God ſo directed the buſineſſe, that they went over and did us no harm; our ſick were recovered, felt no more weakneſſe nor infirmity, but ſtood to it like brave men, God gave them hearts according to the goodneſſe of their cauſe; and after an hour and a half, or thereabouts, the Friers and the Prieſts faith failed them, that they <pb n="6" facs="tcp:124233:4"/>ran away, Generall <hi>Barry</hi> was eaſily perſwaded to go with them; the Lord of <hi>Muſcry</hi> took his leave with a plain Complement, That he had done what he could, and did hope another time to have better ſucceſſe; it is imagined he had recei<g ref="char:EOLhyphen"/>ved a ſhot, abundance of the prime Gentlemen were ſlain upon the place, the reſt fled, and accor<g ref="char:EOLhyphen"/>ding to their wonted cuſtome, betook themſelves to Woods and Bogs; our Horſe purſued them as far as it was convenient: Two hundred that were in the Caſtle, and might have kept out 5000, ran with the reſt, the like did thoſe that were with the Ordnance in the Battery, Colonell <hi>But<g ref="char:EOLhyphen"/>ler,</hi> and divers other Commanders taken priſo<g ref="char:EOLhyphen"/>ners: Of the Rebells were ſlain at leaſt 700, and above a thouſand more dangerouſly wounded: Our people brought away five or ſix hundred Muskets, three Pieces of Braſſe Ord<g ref="char:EOLhyphen"/>nance, which were taken out of the Caſtle of. <hi>Lymbricke,</hi> five Barrells of Powder: it is thought the Friers carryed the reſt of the Powder with them; the Fields were covered with Pikes, which our people regarded not: Captain <hi>Cooper,</hi> with a Company of men, was appointed to keep the Caſtle, and the three Pieces of Ordnance brought to <hi>Mallow,</hi> ſuppoſed they ſhall be brought to
+<hi>Cork.</hi>
+            </p>
+            <p>This was the great work of the Almighty, for of our ſide were not paſſing four or five men ſlain, and five or ſix wounded, which in ſhort time may <pb n="7" facs="tcp:124233:4"/>recover: Colonell <hi>Butler</hi> that was taken priſoner, confeſſeth that they knew of our coming to them at leaſt 24 hours before, which was almoſt as ſoon as the buſineſſe was conceived, And that they made nothing of us; his compariſon was no more, then if ten men armed compleatly, ſhould encounter with two naked horſe-boyes, And that their intent was from this Caſtle, to have gone to <hi>Donnerayle</hi> and <hi>Mallowe,</hi> which in their conceits would ſcarce have hindred them an hours march; From thence to
+<hi>Cork</hi> and <hi>Bandon;</hi> and from this place to have diiven us all into the Sea: And in<g ref="char:EOLhyphen"/>deed, as the caſe ſtood wi h us, what they intend<g ref="char:EOLhyphen"/>ed might have been eaſily brought to paſſe, what by the deſeaſe amongſt our ſouldiers, want of pay and cloaths, the difference that was grown in <hi>Bandon</hi> between the Lord of <hi>Kinelmeakie</hi> and the Inhabitants, and to naturall reaſon our going thither with ſuch a handfull of weake men to give them Battle, ſo many in number, ſo well Armed, and ſo ſtrongly ſcituated, had been to abandon our Garriſons and to haſten our own deſtruction; But as I have ſaid it was the finger of God onely that did direct us, that his power &amp; providence in his own cauſe might be the more clearly diſcerned by us: They had all taken the Sacrament to fight it out to the laſt man, and it is credibly reported that the Fryars had given many of them Charms to keep them ſhot-free.</p>
+            <p>One paſſage more I may not omitt, how it
+<pb n="8" facs="tcp:124233:5"/>pleaſed God to confound them in their own pol<g ref="char:EOLhyphen"/>licy, they did poſſeſſe the Common People that all the Common Souldiers and Engliſh of theſe parts were all ſick and dead, and that there were not paſſing three or four hundred living, and that it was but ſtaying eight or ten dayes till they ſhould have the poſſeſſion of all the Towns with<g ref="char:EOLhyphen"/>out ſtriking a blow; but when they ſaw our peo<g ref="char:EOLhyphen"/>ple approaching neer, and not able to diſcerne what number we might be, which ſeemed very great unto them, and ſeeing us marching ſtill to<g ref="char:EOLhyphen"/>wards them, that the former Informations ſtroke ſuch a terror in them, that they all cryed out, Are theſe the three or four hundred men living? and thereupon flung down their Arms and ran away, ſo in every thing it is plain the Lord was our de<g ref="char:EOLhyphen"/>liverer, we ſhall now I hope in few dayes be able to gather ſome relief for our Towns.</p>
+            <p>A Gentleman, one Maſter <hi>Haſſet,</hi> that was a pri<g ref="char:EOLhyphen"/>ſoner with them, underſtanding very well the Iriſh Tongue, ſaith he heard them talk a day or two before this Battell, that the Lord <hi>Harbes</hi> and his Fleet were at <hi>Galway,</hi> and with the help of the Fort, had taken in that Town; which I believe to be true.</p>
+            <p>We are now at the 19 <hi>Ditto.</hi> The above is Co<g ref="char:EOLhyphen"/>py of a former, which I coufirm in each particu<g ref="char:EOLhyphen"/>lar, ſince our Army hath not ſtirred in any buſi<g ref="char:EOLhyphen"/>neſſe of conſequence, neither have we heard of any thing done by the Rebels hereabouts; neither <pb n="9" facs="tcp:124233:5"/>can we learn of any new head made by them to attempt any thing ſuddenly,</p>
+            <p>Sir <hi>Charles Vavaſour</hi> is cone to garriſon with two or three companies in <hi>Bandon bridge,</hi> Captaine <hi>Chidley</hi> is with him, they were with me about three dayes paſt, and by Gods bleſſing they will be now a meanes to repaire the breaches of diſ<g ref="char:EOLhyphen"/>order which were in that Towne, and bee a great ſecuring to us in all theſe parts, we labour now to ſome purpoſe to bring in what harveſt wee can; it is much better with us then wee expected, it is Gods great mercy and favour towards us.</p>
+            <p>Incloſed I ſend you an examination taken of a Merchant and Maſter from <hi>Bilvoa,</hi> the contents a<g ref="char:EOLhyphen"/>gree with a copie of a Letter ſent me by Maſter <hi>Authory Stowell,</hi> which hee ſaith was preſented to the Committee, and by them to be ſent to the ſe<g ref="char:EOLhyphen"/>verall ports in theſe parts now in obedience, which I have done, the Letter was written by
+<hi>George Paſmore</hi> in St. <hi>Sabaſtians</hi> to <hi>Humphry Tocker</hi> in <hi>Exon.</hi> and it agreeth in the ſubſtance with the ex<g ref="char:EOLhyphen"/>amination.</p>
+            <p>Yeſterday came into this Port one <hi>Captaine Erowne</hi> of
+<hi>Plimouth</hi> from the weſterne parts, repor<g ref="char:EOLhyphen"/>teth my Lord <hi>Forkes</hi> was at <hi>Galloway,</hi> and ordered all things well in that Towne, (as he thought) and from thence came to the river of <hi>Lymbrick,</hi> and that before hee could doe any thing there, Newes was brought him that
+<hi>Golloway</hi> was againe revolted, whereupon he returned againe thither
+<pb n="10" facs="tcp:124233:6"/>with all his forces, and that in this progreſſe ſome of his fleet had taken a veſſell that came from the coaſt of <hi>Byſcay,</hi> laden with powder, ordinance, musket-barrels, and other armes, and my hope is it is true.</p>
+            <p>I hope the Admirall <hi>Kettleby</hi> is by this brought to anſwere his leaving this coaſt when it was in moſt neceſſity.</p>
+            <p>I have furniſhed the caſtle of <hi>Caſtle-haven</hi> by the Lord <hi>Inchequeenes</hi> entreaty, with two pieces, ordi<g ref="char:EOLhyphen"/>nance, carriages, ſhot, and all things compleat, and three barrells of powder, which were be<g ref="char:EOLhyphen"/>longing to the ſhip <hi>Charles.</hi>
+            </p>
+            <p>Likewiſe by my Lord of <hi>Barrimeres</hi> command, I have delivered foure pieces ordinance, and all ap<g ref="char:EOLhyphen"/>purtenances for the fortifying of this caſtle <hi>Lyons,</hi> which hath been long threatned, and often aſ<g ref="char:EOLhyphen"/>ſaulted by the enemy. I hope in time I ſhall have ſatisfaction for all, if all things goe well, if other<g ref="char:EOLhyphen"/>wiſe, both our ſelves and our eſtates muſt goe to<g ref="char:EOLhyphen"/>gether, my confidence is God will bee further glorified by us.</p>
+            <p>Yours the 24th of <hi>Auguſt</hi> came lately to hand, and take notice how neere your condition is broughr to ours, it was alwayes my opinion they were twins.</p>
+            <p>I ſent you an account of my disburſements in his Majeſties ſervice to that day, which I am con<g ref="char:EOLhyphen"/>fident you have received, but anſwer nothing un<g ref="char:EOLhyphen"/>to it, at which I marvell, but I ſhall expect it by
+<pb n="11" facs="tcp:124233:6"/>yours next, and hope that honourable aſſembly will ſpeedily order you ſatisfaction.</p>
+            <p>If <hi>William Slaughter</hi> of <hi>Crook-haven</hi> bee with you, put him in minde to petition for his horſes and armes, Captaine
+<hi>Kettleby</hi> keeps a horſe of mine with his, very unworthily, and but by ſome ſuch meanes wee ſhall never have any recompence. forget not the ſolicitation of <hi>Pelilong</hi> it is all the earthly meanes I depend on in Recompence of my loſſes, and for the future maintenance of my poore diſtreſſed family. This is what for the pre<g ref="char:EOLhyphen"/>ſent I remember, the Lord of heaven keepe and protect you and us from the evill is dayly threat<g ref="char:EOLhyphen"/>ned, if we beg and pray aright we ſhall prevaile.</p>
+            <closer>
+               <signed>Your loving Brother, <hi>Treſtram Whetcombe.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="depositions">
+            <pb n="12" facs="tcp:124233:7"/>
+            <head>
+               <hi>Depoſitions of</hi> William Lake, <hi>Maſter of the</hi> Hope-well <hi>of</hi> Foye, <hi>burden</hi> 60 <hi>Tuns, taken before</hi> Triſtram Whercombe, <hi>Maior of</hi> Kin<g ref="char:EOLhyphen"/>ſale, <hi>upon Oath,</hi> Sept. 6. 1642.</head>
+            <p>THis Examinate being duely ſworn, upon the holy Evangeliſt, ſaith <hi>inter<g ref="char:EOLhyphen"/>alia,</hi> That about eight dayes paſt he came forth from
+<hi>Bilvoa</hi> in <hi>Biskey,</hi> in compa<g ref="char:EOLhyphen"/>ny of ſeven other Veſſels, belonging to ſeve<g ref="char:EOLhyphen"/>rall Ports in <hi>England;</hi> And that in <hi>July</hi> laſt, he, this Examinate was at <hi>Nants,</hi> where he ſaw, and did often converſe with ſeverall <hi>Iriſh</hi> Merchants belonging to
+<hi>Gallaway, Blabes,</hi> and <hi>Brownes,</hi> who ſeemed to be ve<g ref="char:EOLhyphen"/>ry plentifull in Monies, and bought a <hi>French</hi> Ship belonging to
+<hi>Oldron,</hi> burden 120 Tuns, or thereabouts, 12 Pieces of Ordnance, and preſently after began to take aboard Ammu<g ref="char:EOLhyphen"/>nition of all ſorts, the certain quantity he knoweth not; but as far as their eſtates
+<pb n="13" facs="tcp:124233:7"/>would ſtretch they employed, and gave forth, That they intended to proceed a man of War to take
+<hi>Engliſh,</hi> and that of as many as they could take, not a man ſhould eſcape with his life; and that they ſhould not ex<g ref="char:EOLhyphen"/>pect any quarter at all. And further ſaith, That within few dayes after this Veſſel was bought and divulged abroad, there came in<g ref="char:EOLhyphen"/>to the Town 3 or 400 <hi>Iriſh</hi> from
+<hi>Paris</hi> and other places, amongſt which were divers Prieſts and Friars to this Deponents know<g ref="char:EOLhyphen"/>ledge, and ſo many of them went aboard the ſaid Veſſell as ſhe could conveniently carry; but, the certain quantitie of Ammunition, number of perſons, or place where they were bound, he knoweth not.</p>
+            <p>He further, depoſeth, That one <hi>Stephen Linch</hi> of
+<hi>Galaway</hi> Merchant, but of late yeers hath reſided in <hi>Bilvoa,</hi> having a Veſlell of about 60 Tuns, lying in S. <hi>Sabaſtians</hi> about two Months paſt, began to load her with Powder and Ammunition; the certain quan<g ref="char:EOLhyphen"/>titie of Powder he had provided, was five hundred Barrells, 40 or 50 Pieces of ſmall Ordnance, Musket-Barrells, and Rapier
+<pb n="14" facs="tcp:124233:8"/>Blades: Which intention and practice com<g ref="char:EOLhyphen"/>ing to the notice of <hi>Engliſh</hi> Merchants there reſident, in a generall way they petitioned to the Governour make ſearch and ſtay of what ſhould be found aboard, or in his poſ<g ref="char:EOLhyphen"/>ſeſſion; whereupon the Governour, inſtead of giving a favourable anſwer, commanded all the ſaid <hi>Engliſh</hi> to be impriſoned, and impoſed heavy Fines upon them; and for ſa<g ref="char:EOLhyphen"/>tisfaction of the ſaid Pines, cauſed their Cel<g ref="char:EOLhyphen"/>lers and Ware-houſes to be broken open, and ſeized and ſold the goods therein, untill the uttermoſt penny of the ſaid Fines were ſa<g ref="char:EOLhyphen"/>tisfied; in which ſales the ſaid goods were much under-valued, to the great dammage of the ſaid Merchants: And preſently after the ſaid petition and puniſhment, the <hi>Iriſh,</hi> with the Governours approbation, not one<g ref="char:EOLhyphen"/>ly ordered the ſaid Veſſell, but <hi>Linch</hi> and his adherents bought another Veſſell of 50 Tuns, and ſent both to a neer adjoyning Creek cal<g ref="char:EOLhyphen"/>led
+<hi>Muttrico,</hi> where they both finiſhed their ladings.</p>
+            <p>This Deponent further ſaith, That he was credibly informed by ſome <hi>Engliſh</hi> Marri<g ref="char:EOLhyphen"/>ners <pb n="15" facs="tcp:124233:8"/>that were preſent, and ſaw when two Lighter-loads of Cheſts packed with Mus<g ref="char:EOLhyphen"/>ket Barrells, and Rapier Blades, were put aboard the ſaid Veſſells; and that they were both full laden, and ready to ſail a Month paſt; and as he was informed, they did de<g ref="char:EOLhyphen"/>part that Coaſt about 18 dayes paſt, bound for
+<hi>Galaway:</hi> the ſaid <hi>Stephen Linch</hi> Imbar<g ref="char:EOLhyphen"/>qued himſelf, and had in both Ships about 60 Sea-men all <hi>Iriſh.</hi>
+            </p>
+            <p>This Deponent likewiſe ſaith, That be<g ref="char:EOLhyphen"/>ſides the Ammunition (as he was credibly informed) theſe Veſſells have aboard at leaſt twelve thouſand pounds <hi>Starling,</hi> in ready Coyn, which was gathered there in the Countrey: and that every <hi>Iriſh</hi> man there reſident, did ſtrive, and was very forward to adventure the uttermoſt penny of his Eſtate in this Catholike Cauſe, and did boaſt in their common diſcourſe, what they had and would do. And being de<g ref="char:EOLhyphen"/>manded what paſſengers came in the ſaid Veſſells, ſaith, They had aboard many paſ<g ref="char:EOLhyphen"/>ſengers, but one of them of ſpeciall note,
+<pb n="16" facs="tcp:124233:9"/>called by the name of
+<hi>Oneale,</hi> which had beene bred, and brought up in <hi>Spayne,</hi> and further he rememembreth not. <hi>Richard May</hi> Merchant came in the above ſayd veſ<g ref="char:EOLhyphen"/>ſſell, from <hi>Bilbvoa,</hi> and confirmed the above things in each particular.</p>
+            <closer>
+               <signed>Triſtram Whetcomb Soffraigne.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
